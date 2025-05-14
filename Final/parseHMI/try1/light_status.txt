@@ -1,0 +1,2485 @@
+Vehicle Lighting System Analysis Results
+==================================================
+
+=== Initial Analysis ===
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED
+Light: Low Beam | Result: PASSED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: PASSED (deactivated)
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: High Beam | Result: PASSED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: PASSED (deactivated)
+Light: Parking Left | Result: PASSED (deactivated)
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: PASSED (deactivated)
+Light: Parking Left | Result: PASSED (deactivated)
+Light: Parking Left | Result: PASSED (deactivated)
+Light: Parking Left | Result: PASSED (deactivated)
+Light: Parking Left | Result: PASSED (deactivated)
+Light: Parking Left | Result: PASSED (deactivated)
+Light: Parking Left | Result: PASSED (deactivated)
+Light: Parking Left | Result: PASSED (deactivated)
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: PASSED (deactivated)
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: FAILED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: FAILED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Parking Right | Result: PASSED
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (activated)
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (activated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Hazard Lights | Result: ERROR !!!
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: PASSED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: PASSED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: PASSED (deactivated)
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Right Turn | Result: FAILED
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: PASSED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Parking Right | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Left Turn | Result: FAILED
+Light: Hazard Lights | Result: PASSED (deactivated)
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+=== New Monitoring Session === Tue May  6 11:08:03 2025
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: PASSED 
+Light: Left Turn | Result: PASSED
+Light: Parking Left | Result: PASSED
+Light: Hazard Lights | Result: PASSED 
+Light: Hazard Lights | Result: PASSED 
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Left Turn | Result: FAILED
+Light: Low Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED
+Light: High Beam | Result: FAILED

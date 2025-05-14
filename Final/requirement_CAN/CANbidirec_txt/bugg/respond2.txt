@@ -1,0 +1,13 @@
+# Wiper status response signals
+WiperStatus = 1                # 1=ready, 0=fault
+wiperCurrentSpeed = 1          # 0=stopped, 1=slow, 2=fast
+wiperCurrentPosition = 50       # 0-100% position
+consumedPower = 11             # Watts
+currentWiperMode = 1           # Matches wiperMode
+isWiperBlocked = 0             # 0=no, 1=yes
+blockageReason = 0             # 0=none, 1=obstacle, 2=motor_fault
+hwError = 0                    # 0=no error
+
+
+
+

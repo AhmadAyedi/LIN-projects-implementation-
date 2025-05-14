@@ -1,0 +1,8 @@
+INFO:my_can_listener:Timestamp: 1684253397.876342        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+INFO:my_can_listener:Timestamp: 1684253397.944820        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+INFO:my_can_listener:Timestamp: 1684253397.977854        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+INFO:my_can_listener:Timestamp: 1684253397.993702        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+INFO:my_can_listener:Timestamp: 1684253398.032441        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+INFO:my_can_listener:Timestamp: 1684253398.058199        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+INFO:my_can_listener:Timestamp: 1684253398.067356        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+INFO:my_can_listener:Timestamp: 1684253398.094632        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0

@@ -1,0 +1,7 @@
+Timestamp: 1684255262.540391        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+Timestamp: 1684255262.591372        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+Timestamp: 1684255262.622436        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+Timestamp: 1684255262.696350        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+Timestamp: 1684255262.786365        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+Timestamp: 1684255262.845459        ID: 0023    S Rx                DL:  3    00 00 00                    Channel: can0
+

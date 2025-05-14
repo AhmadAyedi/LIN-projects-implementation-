@@ -1,0 +1,60 @@
+class Notifier(builtins.object)
+ |  Notifier(bus: Union[can.bus.BusABC, List[can.bus.BusABC]], listeners: Iterable[Union[can.listener.Listener, Callable[[can.message.Message], NoneType]]], timeout: float = 1.0, loop: Optional[asyncio.events.AbstractEventLoop] = None) -> None
+ |  
+ |  Methods defined here:
+ |  
+ |  __init__(self, bus: Union[can.bus.BusABC, List[can.bus.BusABC]], listeners: Iterable[Union[can.listener.Listener, Callable[[can.message.Message], NoneType]]], timeout: float = 1.0, loop: Optional[asyncio.events.AbstractEventLoop] = None) -> None
+ |      Manages the distribution of :class:`~can.Message` instances to listeners.
+ |      
+ |      Supports multiple buses and listeners.
+ |      
+ |      .. Note::
+ |      
+ |          Remember to call `stop()` after all messages are received as
+ |          many listeners carry out flush operations to persist data.
+ |      
+ |      
+ |      :param bus: A :ref:`bus` or a list of buses to listen to.
+ |      :param listeners:
+ |          An iterable of :class:`~can.Listener` or callables that receive a :class:`~can.Message`
+ |          and return nothing.
+ |      :param timeout: An optional maximum number of seconds to wait for any :class:`~can.Message`.
+ |      :param loop: An :mod:`asyncio` event loop to schedule the ``listeners`` in.
+ |  
+ |  add_bus(self, bus: can.bus.BusABC) -> None
+ |      Add a bus for notification.
+ |      
+ |      :param bus:
+ |          CAN bus instance.
+ |  
+ |  add_listener(self, listener: can.listener.Listener) -> None
+ |      Add new Listener to the notification list.
+ |      If it is already present, it will be called two times
+ |      each time a message arrives.
+ |      
+ |      :param listener: Listener to be added to the list to be notified
+ |  
+ |  remove_listener(self, listener: can.listener.Listener) -> None
+ |      Remove a listener from the notification list. This method
+ |      throws an exception if the given listener is not part of the
+ |      stored listeners.
+ |      
+ |      :param listener: Listener to be removed from the list to be notified
+ |      :raises ValueError: if `listener` was never added to this notifier
+ |  
+ |  stop(self, timeout: float = 5) -> None
+ |      Stop notifying Listeners when new :class:`~can.Message` objects arrive
+ |      and call :meth:`~can.Listener.stop` on each Listener.
+ |      
+ |      :param timeout:
+ |          Max time in seconds to wait for receive threads to finish.
+ |          Should be longer than timeout given at instantiation.
+ |  
+ |  ----------------------------------------------------------------------
+ |  Data descriptors defined here:
+ |  
+ |  __dict__
+ |      dictionary for instance variables (if defined)
+ |  
+ |  __weakref__
+ |      list of weak references to the object (if defined)

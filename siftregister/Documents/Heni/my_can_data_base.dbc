@@ -1,0 +1,280 @@
+VERSION ""
+
+
+NS_ : 
+	NS_DESC_
+	CM_
+	BA_DEF_
+	BA_
+	VAL_
+	CAT_DEF_
+	CAT_
+	FILTER
+	BA_DEF_DEF_
+	EV_DATA_
+	ENVVAR_DATA_
+	SGTYPE_
+	SGTYPE_VAL_
+	BA_DEF_SGTYPE_
+	BA_SGTYPE_
+	SIG_TYPE_REF_
+	VAL_TABLE_
+	SIG_GROUP_
+	SIG_VALTYPE_
+	SIGTYPE_VALTYPE_
+	BO_TX_BU_
+	BA_DEF_REL_
+	BA_REL_
+	BA_DEF_DEF_REL_
+	BU_SG_REL_
+	BU_EV_REL_
+	BU_BO_REL_
+	SG_MUL_VAL_
+
+BS_:
+
+BU_: RPi_Master RPi_Slave
+VAL_TABLE_ Vt_Window_movemen_Target_Position ;
+VAL_TABLE_ Vt_Window_Obstacle_Detection_Sta 3 "Invalid" 2 "EmergencyMode" 1 "NormalMode" 0 "NoObstacleDetected" ;
+VAL_TABLE_ Vt_Window_Normalization_Status 4 "NormlizationAborted" 3 "Invalid" 2 "NormaliztionFinished" 1 "NormaliztionOngoing" 0 "NormalizationNotStarted" ;
+VAL_TABLE_ Vt_Window_Movement_Direction 3 "Invalid" 2 "Opening" 1 "Closing" 0 "Stopped" ;
+VAL_TABLE_ Vt_Window_Automatic_Movement_Sta 3 "Invalid" 1 "Enabled" 0 "NotEnabled" ;
+VAL_TABLE_ Vt_Window_Driving_Status 3 "Invalid" 1 "IsDriving" 0 "IsNotDriving" ;
+VAL_TABLE_ Vt_Window_Driving_Acknowledge 3 "Invalid" 1 "Rejected" 0 "Accepted" ;
+VAL_TABLE_ Vt_Window_Movement_Mode 3 "Invalid" 1 "Emergency" 0 "Normal" ;
+VAL_TABLE_ Vt_Window_Normalization_Mode 3 "Invalid" 1 "HUNormalization" 0 "SwitchNormalization" ;
+VAL_TABLE_ Vt_Window_Short_Long_Drop_Mode 3 "Invalid" 2 "LongMovementActivated" 1 "ShortMovementActivated" 0 "FunctionDeactivated" ;
+VAL_TABLE_ Vt_Window_Movement_Type 3 "Invalid" 1 "NotAutomaticMovement" 0 "AutomaticMovement" ;
+VAL_TABLE_ Vt_Window_Movement_Status 3 "Invalid" 1 "Moving" 0 "Stop" ;
+VAL_TABLE_ Vt_Comfort_Fuction_Status 4 "CabrioComfortClosing" 2 "CabrioComfortOpening" 3 "Invalid" 1 "ComfortClosing" 0 "ComfortOpening" ;
+VAL_TABLE_ Vt_Child_Protection_Status 3 "Invalid" 1 "Active" 0 "NotActive" ;
+VAL_TABLE_ Vt_Window_Movement_Availability 3 "Invalid" 1 "Available" 0 "NotAvailable" ;
+VAL_TABLE_ Vt_Child_Protection_Led_Status 3 "Invalid" 1 "On" 0 "Off" ;
+VAL_TABLE_ Vt_Rear_Window_Safety_Switch 3 "Invalid" 1 "Pressed" 0 "NotPressed" ;
+VAL_TABLE_ Vt_Central_or_Local_Switch 7 "Invalid" 4 "Closing2" 3 "Opening2" 2 "Closing1" 1 "Opening1" 0 "Idle" ;
+
+
+BO_ 3221225472 VECTOR__INDEPENDENT_SIG_MSG: 0 Vector__XXX
+ SG_ DriverRear_Window_Obstacle_Detec : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 52 DriverRearWindowStatus_Slave: 4 RPi_Slave
+ SG_ DriverRear_Local_Switch : 26|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DriverRear_Window_Obstacle__0000 : 24|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DriverRear_Window_Normalization_ : 20|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DriverRear_Window_Movement_Direc : 18|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DriverRear_Window_Driving_Status : 2|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DriverRear_Window_Driving_Acknow : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DriverRear_Window_Current_Positi : 4|12@1+ (1,0) [0|1800] "" Vector__XXX
+ SG_ DriverRear_Window_Automatic_Move : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 50 PassengerRearWindowStatus_Slave: 4 RPi_Slave
+ SG_ PassengerRear_Local_Switch : 26|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Obstacle_De : 24|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Normalizati : 20|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Movement_Di : 18|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Driving_Sta : 2|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Driving_Ack : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Current_Pos : 4|12@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Automatic_M : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 49 PassengerWindowStatus_Slave: 4 RPi_Slave
+ SG_ Passenger_Window_Obstacle_Detect : 24|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Passenger_Window_Normalization_S : 20|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Passenger_Window_Movement_Direct : 18|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Passenger_Window_Driving_Status : 2|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Passenger_Window_Driving_Acknowl : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Passenger_Window_Current_Positio : 4|12@1+ (1,0) [0|1800] "" Vector__XXX
+ SG_ Passenger_Window_Automatic_Movem : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 48 DriverWindowStatus_Slave: 4 RPi_Slave
+ SG_ Driver_Window_Obstacle_Detection : 24|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Driver_Window_Normalization_Stat : 20|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Driver_Window_Movement_Direction : 18|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Driver_Window_Driving_Status : 2|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Driver_Window_Driving_Acknowledg : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Driver_Window_Current_Position : 4|12@1+ (1,0) [0|1800] "" Vector__XXX
+ SG_ Driver_Window_Automatic_Movement : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 35 DriverRearWindowStatus_Master: 3 RPi_Master
+ SG_ DriverRear_Window_Short_Long_Dro : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DriverRear_Window_Normaliza_0000 : 18|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DriverRear_Window_Movement_Type : 2|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DriverRear_Window_Movement_Targe : 4|12@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DriverRear_Window_Movement_Statu : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DriverRear_Window_Movement_Mode : 20|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 34 PassengerRearWindowStatus_Master: 3 RPi_Master
+ SG_ PassengerRear_Window_Short_Long_ : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Normal_0000 : 18|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Movement_Ty : 2|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Movement_Ta : 4|12@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Movement_St : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PassengerRear_Window_Movement_Mo : 20|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 33 PassengerWindowStatus_Master: 3 RPi_Master
+ SG_ Passenger_Window_Short_Long_Drop : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Passenger_Window_Normalization_M : 18|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Passenger_Window_Movement_Type : 2|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Passenger_Window_Movement_Target : 4|12@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Passenger_Window_Movement_Status : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Passenger_Window_Movement_Mode : 20|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 32 DriverWindowStatus_Master: 3 RPi_Master
+ SG_ Driver_Window_Short_Long_Drop_Mo : 16|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Driver_Window_Normalization_Mode : 18|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Driver_Window_Movement_Type : 2|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Driver_Window_Movement_Target_Po : 4|12@1+ (1,0) [0|1800] "" Vector__XXX
+ SG_ Driver_Window_Movement_Status : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Driver_Window_Movement_Mode : 20|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 21 GlobalWindowStatus_Master: 2 RPi_Master
+ SG_ Window_Movement_Availability : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Comfort_Function_Status : 4|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Child_Protection_Status : 2|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 17 ChildSafetyLedStatus: 1 RPi_Slave
+ SG_ Child_Protection_Led_Status : 0|2@1+ (1,0) [0|0] "" Vector__XXX
+
+BO_ 16 CentralSwitchBlock: 3 RPi_Slave
+ SG_ Rear_Window_Safety_Switch : 6|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Central_Switch_Block_Passenger_R : 11|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Central_Switch_Block_Passenger : 8|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Central_Switch_Block_Driver_Rear : 3|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Central_Switch_Block_All_Window : 16|3@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Central_Switch_Block_Driver : 0|3@1+ (1,0) [0|0] "" Vector__XXX
+
+
+
+CM_ BO_ 3221225472 "This is a message for not used signals, created by Vector CANdb++ DBC OLE DB Provider.";
+CM_ SG_ 35 DriverRear_Window_Short_Long_Dro "This signal indicates if the window will perform movement to short or to long drop position";
+CM_ SG_ 35 DriverRear_Window_Movement_Type "This signals indicates if the ongoing movement is automatic or not";
+CM_ SG_ 35 DriverRear_Window_Movement_Statu "This signal gives information about the driving command status sent by the master";
+CM_ SG_ 35 DriverRear_Window_Movement_Mode "This signal indicates if the driver rear window movement type is normal or emergency";
+CM_ SG_ 34 PassengerRear_Window_Short_Long_ "This signal indicates if the window will perform movement to short or to long drop position";
+CM_ SG_ 34 PassengerRear_Window_Normal_0000 "This signal is sent when a normalization process should be executed by the passenger rear window";
+CM_ SG_ 34 PassengerRear_Window_Movement_Ty "This signal indicates if the ongoing movement is automatic or not";
+CM_ SG_ 34 PassengerRear_Window_Movement_St "This signal gives information about the driving command status sent by the master";
+CM_ SG_ 34 PassengerRear_Window_Movement_Mo "This signal indicates if the passenger rear window movement type is normal or emergency";
+CM_ SG_ 33 Passenger_Window_Short_Long_Drop "This signal indicates if the window will perform movement to short or to long drop position";
+CM_ SG_ 33 Passenger_Window_Normalization_M "This signal is sent when a normalization process should be executed by the driver window";
+CM_ SG_ 33 Passenger_Window_Movement_Type "This signal indicates if the ongoing movement is automatic or not";
+CM_ SG_ 33 Passenger_Window_Movement_Status "This signal gives information about the driving command status sent by the master";
+CM_ SG_ 33 Passenger_Window_Movement_Mode "This signal indicates if the driver window movement type is normal or emergency";
+CM_ SG_ 32 Driver_Window_Normalization_Mode "This signal is sent when a normalization process should be executed by the driver window";
+CM_ SG_ 32 Driver_Window_Movement_Type "This signal indicates if the ongoing movement is automatic or not";
+CM_ SG_ 32 Driver_Window_Movement_Status "This signal gives information about the driving command status sent by the master";
+CM_ SG_ 32 Driver_Window_Movement_Mode "This signal indicates if the driver window movement type is normal or emergency";
+CM_ SG_ 21 Window_Movement_Availability "This signal gives information whether the window can be moved or not";
+CM_ SG_ 21 Comfort_Function_Status "This signal gives information about the comfort information status";
+CM_ SG_ 21 Child_Protection_Status "This signal gives information whether the window can be moved or not";
+CM_ SG_ 17 Child_Protection_Led_Status "This signal gives information about the child protection led status";
+CM_ SG_ 16 Rear_Window_Safety_Switch "This signal gives information about the rear windows safety switch status";
+CM_ SG_ 16 Central_Switch_Block_Passenger_R "This signal gives information about the switch status related to passenger rear window";
+CM_ SG_ 16 Central_Switch_Block_Passenger "This signal gives information about the switch status passenger window";
+CM_ SG_ 16 Central_Switch_Block_Driver_Rear "This signal gives information about the switch status related to driver rear window";
+CM_ SG_ 16 Central_Switch_Block_All_Window "This signal gives information about the switch status related to all window";
+CM_ SG_ 16 Central_Switch_Block_Driver "This signal gives information about the switch status driver window";
+BA_DEF_  "MultiplexExtEnabled" ENUM  "No","Yes";
+BA_DEF_  "BusType" STRING ;
+BA_DEF_ SG_  "SystemSignalLongSymbol" STRING ;
+BA_DEF_DEF_  "MultiplexExtEnabled" "No";
+BA_DEF_DEF_  "BusType" "";
+BA_DEF_DEF_  "SystemSignalLongSymbol" "";
+BA_ "BusType" "CAN";
+BA_ "SystemSignalLongSymbol" SG_ 3221225472 DriverRear_Window_Obstacle_Detec "DriverRear_Window_Obstacle_Detection_Status";
+BA_ "SystemSignalLongSymbol" SG_ 52 DriverRear_Window_Obstacle__0000 "DriverRear_Window_Obstacle_Detection_Status";
+BA_ "SystemSignalLongSymbol" SG_ 52 DriverRear_Window_Normalization_ "DriverRear_Window_Normalization_Status";
+BA_ "SystemSignalLongSymbol" SG_ 52 DriverRear_Window_Movement_Direc "DriverRear_Window_Movement_Direction";
+BA_ "SystemSignalLongSymbol" SG_ 52 DriverRear_Window_Driving_Acknow "DriverRear_Window_Driving_Acknowledge";
+BA_ "SystemSignalLongSymbol" SG_ 52 DriverRear_Window_Current_Positi "DriverRear_Window_Current_Position";
+BA_ "SystemSignalLongSymbol" SG_ 52 DriverRear_Window_Automatic_Move "DriverRear_Window_Automatic_Movement_Status";
+BA_ "SystemSignalLongSymbol" SG_ 50 PassengerRear_Window_Obstacle_De "PassengerRear_Window_Obstacle_Detection_Status";
+BA_ "SystemSignalLongSymbol" SG_ 50 PassengerRear_Window_Normalizati "PassengerRear_Window_Normalization_Status";
+BA_ "SystemSignalLongSymbol" SG_ 50 PassengerRear_Window_Movement_Di "PassengerRear_Window_Movement_Direction";
+BA_ "SystemSignalLongSymbol" SG_ 50 PassengerRear_Window_Driving_Sta "PassengerRear_Window_Driving_Status";
+BA_ "SystemSignalLongSymbol" SG_ 50 PassengerRear_Window_Driving_Ack "PassengerRear_Window_Driving_Acknowledge";
+BA_ "SystemSignalLongSymbol" SG_ 50 PassengerRear_Window_Current_Pos "PassengerRear_Window_Current_Position";
+BA_ "SystemSignalLongSymbol" SG_ 50 PassengerRear_Window_Automatic_M "PassengerRear_Window_Automatic_Movement_Status";
+BA_ "SystemSignalLongSymbol" SG_ 49 Passenger_Window_Obstacle_Detect "Passenger_Window_Obstacle_Detection_Status";
+BA_ "SystemSignalLongSymbol" SG_ 49 Passenger_Window_Normalization_S "Passenger_Window_Normalization_Status";
+BA_ "SystemSignalLongSymbol" SG_ 49 Passenger_Window_Movement_Direct "Passenger_Window_Movement_Direction";
+BA_ "SystemSignalLongSymbol" SG_ 49 Passenger_Window_Driving_Acknowl "Passenger_Window_Driving_Acknowledge";
+BA_ "SystemSignalLongSymbol" SG_ 49 Passenger_Window_Current_Positio "Passenger_Window_Current_Position";
+BA_ "SystemSignalLongSymbol" SG_ 49 Passenger_Window_Automatic_Movem "Passenger_Window_Automatic_Movement_Status";
+BA_ "SystemSignalLongSymbol" SG_ 48 Driver_Window_Obstacle_Detection "Driver_Window_Obstacle_Detection_Status";
+BA_ "SystemSignalLongSymbol" SG_ 48 Driver_Window_Normalization_Stat "Driver_Window_Normalization_Status";
+BA_ "SystemSignalLongSymbol" SG_ 48 Driver_Window_Driving_Acknowledg "Driver_Window_Driving_Acknowledge";
+BA_ "SystemSignalLongSymbol" SG_ 48 Driver_Window_Automatic_Movement "Driver_Window_Automatic_Movement_Status";
+BA_ "SystemSignalLongSymbol" SG_ 35 DriverRear_Window_Short_Long_Dro "DriverRear_Window_Short_Long_Drop_Mode";
+BA_ "SystemSignalLongSymbol" SG_ 35 DriverRear_Window_Normaliza_0000 "DriverRear_Window_Normalization_Mode";
+BA_ "SystemSignalLongSymbol" SG_ 35 DriverRear_Window_Movement_Targe "DriverRear_Window_Movement_Target_Position";
+BA_ "SystemSignalLongSymbol" SG_ 35 DriverRear_Window_Movement_Statu "DriverRear_Window_Movement_Status";
+BA_ "SystemSignalLongSymbol" SG_ 34 PassengerRear_Window_Short_Long_ "PassengerRear_Window_Short_Long_Drop_Mode";
+BA_ "SystemSignalLongSymbol" SG_ 34 PassengerRear_Window_Normal_0000 "PassengerRear_Window_Normalization_Mode";
+BA_ "SystemSignalLongSymbol" SG_ 34 PassengerRear_Window_Movement_Ty "PassengerRear_Window_Movement_Type";
+BA_ "SystemSignalLongSymbol" SG_ 34 PassengerRear_Window_Movement_Ta "PassengerRear_Window_Movement_Target_Position";
+BA_ "SystemSignalLongSymbol" SG_ 34 PassengerRear_Window_Movement_St "PassengerRear_Window_Movement_Status";
+BA_ "SystemSignalLongSymbol" SG_ 34 PassengerRear_Window_Movement_Mo "PassengerRear_Window_Movement_Mode";
+BA_ "SystemSignalLongSymbol" SG_ 33 Passenger_Window_Short_Long_Drop "Passenger_Window_Short_Long_Drop_Mode";
+BA_ "SystemSignalLongSymbol" SG_ 33 Passenger_Window_Normalization_M "Passenger_Window_Normalization_Mode";
+BA_ "SystemSignalLongSymbol" SG_ 33 Passenger_Window_Movement_Target "Passenger_Window_Movement_Target_Position";
+BA_ "SystemSignalLongSymbol" SG_ 32 Driver_Window_Short_Long_Drop_Mo "Driver_Window_Short_Long_Drop_Mode";
+BA_ "SystemSignalLongSymbol" SG_ 32 Driver_Window_Movement_Target_Po "Driver_Window_Movement_Target_Position";
+BA_ "SystemSignalLongSymbol" SG_ 16 Central_Switch_Block_Passenger_R "Central_Switch_Block_Passenger_Rear";
+VAL_ 52 DriverRear_Local_Switch 7 "Invalid" 4 "Closing2" 3 "Opening2" 2 "Closing1" 1 "Opening1" 0 "Idle" ;
+VAL_ 52 DriverRear_Window_Obstacle__0000 3 "Invalid" 2 "EmergencyMode" 1 "NormalMode" 0 "NoObstacleDetected" ;
+VAL_ 52 DriverRear_Window_Normalization_ 4 "NormlizationAborted" 3 "Invalid" 2 "NormaliztionFinished" 1 "NormaliztionOngoing" 0 "NormalizationNotStarted" ;
+VAL_ 52 DriverRear_Window_Movement_Direc 3 "Invalid" 2 "Opening" 1 "Closing" 0 "Stopped" ;
+VAL_ 52 DriverRear_Window_Driving_Status 3 "Invalid" 1 "IsDriving" 0 "IsNotDriving" ;
+VAL_ 52 DriverRear_Window_Driving_Acknow 3 "Invalid" 1 "Rejected" 0 "Accepted" ;
+VAL_ 52 DriverRear_Window_Automatic_Move 3 "Invalid" 1 "Enabled" 0 "NotEnabled" ;
+VAL_ 50 PassengerRear_Local_Switch 7 "Invalid" 4 "Closing2" 3 "Opening2" 2 "Closing1" 1 "Opening1" 0 "Idle" ;
+VAL_ 50 PassengerRear_Window_Obstacle_De 3 "Invalid" 2 "EmergencyMode" 1 "NormalMode" 0 "NoObstacleDetected" ;
+VAL_ 50 PassengerRear_Window_Normalizati 4 "NormlizationAborted" 3 "Invalid" 2 "NormaliztionFinished" 1 "NormaliztionOngoing" 0 "NormalizationNotStarted" ;
+VAL_ 50 PassengerRear_Window_Movement_Di 3 "Invalid" 2 "Opening" 1 "Closing" 0 "Stopped" ;
+VAL_ 50 PassengerRear_Window_Driving_Sta 3 "Invalid" 1 "IsDriving" 0 "IsNotDriving" ;
+VAL_ 50 PassengerRear_Window_Driving_Ack 3 "Invalid" 1 "Rejected" 0 "Accepted" ;
+VAL_ 50 PassengerRear_Window_Automatic_M 3 "Invalid" 1 "Enabled" 0 "NotEnabled" ;
+VAL_ 49 Passenger_Window_Obstacle_Detect 3 "Invalid" 2 "EmergencyMode" 1 "NormalMode" 0 "NoObstacleDetected" ;
+VAL_ 49 Passenger_Window_Normalization_S 4 "NormlizationAborted" 3 "Invalid" 2 "NormaliztionFinished" 1 "NormaliztionOngoing" 0 "NormalizationNotStarted" ;
+VAL_ 49 Passenger_Window_Movement_Direct 3 "Invalid" 2 "Opening" 1 "Closing" 0 "Stopped" ;
+VAL_ 49 Passenger_Window_Driving_Status 3 "Invalid" 1 "IsDriving" 0 "IsNotDriving" ;
+VAL_ 49 Passenger_Window_Driving_Acknowl 3 "Invalid" 1 "Rejected" 0 "Accepted" ;
+VAL_ 49 Passenger_Window_Automatic_Movem 3 "Invalid" 1 "Enabled" 0 "NotEnabled" ;
+VAL_ 48 Driver_Window_Obstacle_Detection 3 "Invalid" 2 "EmergencyMode" 1 "NormalMode" 0 "NoObstacleDetected" ;
+VAL_ 48 Driver_Window_Normalization_Stat 4 "NormlizationAborted" 3 "Invalid" 2 "NormaliztionFinished" 1 "NormaliztionOngoing" 0 "NormalizationNotStarted" ;
+VAL_ 48 Driver_Window_Movement_Direction 3 "Invalid" 2 "Opening" 1 "Closing" 0 "Stopped" ;
+VAL_ 48 Driver_Window_Driving_Status 3 "Invalid" 1 "IsDriving" 0 "IsNotDriving" ;
+VAL_ 48 Driver_Window_Driving_Acknowledg 3 "Invalid" 1 "Rejected" 0 "Accepted" ;
+VAL_ 48 Driver_Window_Automatic_Movement 3 "Invalid" 1 "Enabled" 0 "NotEnabled" ;
+VAL_ 35 DriverRear_Window_Short_Long_Dro 3 "Invalid" 2 "LongMovementActivated" 1 "ShortMovementActivated" 0 "FunctionDeactivated" ;
+VAL_ 35 DriverRear_Window_Normaliza_0000 3 "Invalid" 1 "HUNormalization" 0 "SwitchNormalization" ;
+VAL_ 35 DriverRear_Window_Movement_Type 3 "Invalid" 1 "NotAutomaticMovement" 0 "AutomaticMovement" ;
+VAL_ 35 DriverRear_Window_Movement_Statu 3 "Invalid" 1 "Moving" 0 "Stop" ;
+VAL_ 35 DriverRear_Window_Movement_Mode 3 "Invalid" 1 "Emergency" 0 "Normal" ;
+VAL_ 34 PassengerRear_Window_Short_Long_ 3 "Invalid" 2 "LongMovementActivated" 1 "ShortMovementActivated" 0 "FunctionDeactivated" ;
+VAL_ 34 PassengerRear_Window_Normal_0000 3 "Invalid" 1 "HUNormalization" 0 "SwitchNormalization" ;
+VAL_ 34 PassengerRear_Window_Movement_Ty 3 "Invalid" 1 "NotAutomaticMovement" 0 "AutomaticMovement" ;
+VAL_ 34 PassengerRear_Window_Movement_St 3 "Invalid" 1 "Moving" 0 "Stop" ;
+VAL_ 34 PassengerRear_Window_Movement_Mo 3 "Invalid" 1 "Emergency" 0 "Normal" ;
+VAL_ 33 Passenger_Window_Short_Long_Drop 3 "Invalid" 2 "LongMovementActivated" 1 "ShortMovementActivated" 0 "FunctionDeactivated" ;
+VAL_ 33 Passenger_Window_Normalization_M 3 "Invalid" 1 "HUNormalization" 0 "SwitchNormalization" ;
+VAL_ 33 Passenger_Window_Movement_Type 3 "Invalid" 1 "NotAutomaticMovement" 0 "AutomaticMovement" ;
+VAL_ 33 Passenger_Window_Movement_Status 3 "Invalid" 1 "Moving" 0 "Stop" ;
+VAL_ 33 Passenger_Window_Movement_Mode 3 "Invalid" 1 "Emergency" 0 "Normal" ;
+VAL_ 32 Driver_Window_Short_Long_Drop_Mo 3 "Invalid" 2 "LongMovementActivated" 1 "ShortMovementActivated" 0 "FunctionDeactivated" ;
+VAL_ 32 Driver_Window_Normalization_Mode 3 "Invalid" 1 "HUNormalization" 0 "SwitchNormalization" ;
+VAL_ 32 Driver_Window_Movement_Type 3 "Invalid" 1 "NotAutomaticMovement" 0 "AutomaticMovement" ;
+VAL_ 32 Driver_Window_Movement_Status 3 "Invalid" 1 "Moving" 0 "Stop" ;
+VAL_ 32 Driver_Window_Movement_Mode 3 "Invalid" 1 "Emergency" 0 "Normal" ;
+VAL_ 21 Window_Movement_Availability 3 "Invalid" 1 "Available" 0 "NotAvailable" ;
+VAL_ 21 Comfort_Function_Status 4 "CabrioComfortClosing" 2 "CabrioComfortOpening" 3 "Invalid" 1 "ComfortClosing" 0 "ComfortOpening" ;
+VAL_ 21 Child_Protection_Status 3 "Invalid" 1 "Active" 0 "NotActive" ;
+VAL_ 17 Child_Protection_Led_Status 3 "Invalid" 1 "On" 0 "Off" ;
+VAL_ 16 Rear_Window_Safety_Switch 3 "Invalid" 1 "Pressed" 0 "NotPressed" ;
+VAL_ 16 Central_Switch_Block_Passenger_R 7 "Invalid" 4 "Closing2" 3 "Opening2" 2 "Closing1" 1 "Opening1" 0 "Idle" ;
+VAL_ 16 Central_Switch_Block_Passenger 7 "Invalid" 4 "Closing2" 3 "Opening2" 2 "Closing1" 1 "Opening1" 0 "Idle" ;
+VAL_ 16 Central_Switch_Block_Driver_Rear 7 "Invalid" 4 "Closing2" 3 "Opening2" 2 "Closing1" 1 "Opening1" 0 "Idle" ;
+VAL_ 16 Central_Switch_Block_All_Window 7 "Invalid" 4 "Closing2" 3 "Opening2" 2 "Closing1" 1 "Opening1" 0 "Idle" ;
+VAL_ 16 Central_Switch_Block_Driver 7 "Invalid" 4 "Closing2" 3 "Opening2" 2 "Closing1" 1 "Opening1" 0 "Idle" ;
+
